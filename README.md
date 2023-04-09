@@ -32,7 +32,22 @@ Navigate to the cloned repository and run the command:
 pip install -r requirements.txt
 
 ## App Execution
+Here's a step-by-step process on how to use the Streamlit Grocery Sales Prediction App:
 
+Open the web app in your browser.
+You will see a input fields on the page with several input requests.
+Enter the values for the input fields that you would like to use for the prediction. For example, select the store number, the product category, and the date of the prediction.
+After filling all the input fields, click the "Predict Sales" button.
+The app will then display the predicted sales value based on the inputs you provided.
+That's it! You can repeat steps 3-5 with different input values to see how the predicted sales value changes based on different factors.
+
+![Alt text](images/1.png)
+
+![Alt text](images/2.png)
+
+![Alt text](images/3.png)
+
+![Alt text](images/4.png)
 
 
 ## Author

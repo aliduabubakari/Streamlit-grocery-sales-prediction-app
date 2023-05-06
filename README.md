@@ -51,7 +51,9 @@ That's it! You can repeat steps 3-5 with different input values to see how the p
 
 
 ## Author
+
 Alidu Abubakari
+
 Data Analyst
 
 

@@ -17,15 +17,41 @@ The app is built using the Streamlit library, which makes it easy to create inte
 
 ## Installation
 
-Download or Clone the repository and navigate to the project directory. Clone this repository to your local machine using the following command:
+### Manual Setup
 
-git clone https://github.com/aliduabubakari/Streamlit-grocery-sales-prediction-app
+For manual installation, you need to have Python3 on your system. Then you can clone this repo and be at the repo's root (`https://github.com/aliduabubakari/Streamlit-grocery-sales-prediction-app`) to follow the steps below:
+
+**Windows:**
+
+```bash
+python -m venv venv; venv\Scripts\activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt
+```
+**Linux & MacOS:**
+
+```bash
+python3 -m venv venv; source venv/bin/activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt
+```
+
+The both long command-lines have the same structure; they pipe multiple commands using the symbol ;, but you may manually execute them one after another.
+
+1. Create the Python's virtual environment that isolates the required libraries of the project to avoid conflicts.
+2. Activate the Python's virtual environment so that the Python kernel and libraries will be those of the isolated environment.
+3. Upgrade Pip, the installed libraries/packages manager, to have the up-to-date version that will work correctly.
+5. Install the required libraries/packages listed in the requirements.txt file so that they can be imported into the Python scripts and notebooks without any issues.
+
+Note for MacOS users: Please install Xcode if you encounter any issues.
+
+To run the demo app (being at the repository root), use the following command:
+
+```bash
+streamlit run lp4.py
+```
 
 Alternatively, you can visit:
 
 https://huggingface.co/spaces/Abubakari/Sales_Prediction#sales-prediction-app
 
-## Install the dependencies
+### Install the dependencies
 
 Navigate to the cloned repository and run the command:
 
@@ -33,7 +59,7 @@ Navigate to the cloned repository and run the command:
 pip install -r requirements.txt
 ```
 
-## App Execution
+### App Execution on Huggingface
 Here's a step-by-step process on how to use the Streamlit Grocery Sales Prediction App:
 
 1. Open the web app in your browser.
@@ -53,11 +79,14 @@ That's it! You can repeat steps 3-5 with different input values to see how the p
 ![Alt text](images/4.png)
 
 
+
+
 ## Author
 
-Alidu Abubakari
+`Alidu Abubakari`
 
-Data Analyst
+`Data Analyst`
+
 
 
 

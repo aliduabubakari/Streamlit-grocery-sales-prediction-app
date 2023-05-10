@@ -4,7 +4,7 @@ Streamlit-grocery-sales-prediction-app is a web application designed to predict 
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP4 | Churn Prediction with Gradio |  [https://medium.com/@alidu143/building-a-sales-prediction-app-with-streamlit-and-machine-learning-31746625d6ca](/) | [https://huggingface.co/spaces/Abubakari/Sales_Prediction#sales-prediction-app](/) |
+| LP4 | Grocery Sales Prediction App with Streamlit|  [https://medium.com/@alidu143/building-a-sales-prediction-app-with-streamlit-and-machine-learning-31746625d6ca](/) | [https://huggingface.co/spaces/Abubakari/Sales_Prediction#sales-prediction-app](/) |
 
 ## Project Description
 The Streamlit Grocery Sales Prediction App is a web application that allows users to predict the sales of a grocery shop based on input data such as store number, product type, promotions, oil prices, and more. The app uses a machine learning model that has been trained on a dataset of grocery sales data to make predictions.
@@ -29,16 +29,19 @@ https://huggingface.co/spaces/Abubakari/Sales_Prediction#sales-prediction-app
 
 Navigate to the cloned repository and run the command:
 
+```bash
 pip install -r requirements.txt
+```
 
 ## App Execution
 Here's a step-by-step process on how to use the Streamlit Grocery Sales Prediction App:
 
-Open the web app in your browser.
-You will see a input fields on the page with several input requests.
-Enter the values for the input fields that you would like to use for the prediction. For example, select the store number, the product category, and the date of the prediction.
-After filling all the input fields, click the "Predict Sales" button.
-The app will then display the predicted sales value based on the inputs you provided.
+1. Open the web app in your browser.
+2. You will see a input fields on the page with several input requests.
+3. Enter the values for the input fields that you would like to use for the prediction. For example, select the store number, the product category, and the date of the prediction.
+4. After filling all the input fields, click the "Predict Sales" button.
+5. The app will then display the predicted sales value based on the inputs you provided.
+
 That's it! You can repeat steps 3-5 with different input values to see how the predicted sales value changes based on different factors.
 
 ![Alt text](images/1.png)

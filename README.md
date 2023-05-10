@@ -87,6 +87,10 @@ That's it! You can repeat steps 3-5 with different input values to see how the p
 
 `Data Analyst`
 
+`Azubi Africa`
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alidu-abubakari-2612bb57/) 
+
 
 
 

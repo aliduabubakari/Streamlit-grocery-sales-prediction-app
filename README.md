@@ -1,5 +1,5 @@
 
-🛒 **Streamlit-grocery-sales-prediction-app** 📈
+# 🛒 **Streamlit-grocery-sales-prediction-app** 📈
 
 ![Grocery prediction](images/banner.jpg)
 

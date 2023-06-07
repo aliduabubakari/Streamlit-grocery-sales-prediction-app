@@ -34,13 +34,18 @@ The **Streamlit Grocery Sales Prediction App** is a web application that allows 
 
 ### Features and Functionality
 - Users can input their data through a user-friendly interface. 🖥️💻
+
 - The app uses a machine learning model trained on a dataset of grocery sales data to make predictions. 🧠🔍
+
 - It incorporates various machine learning techniques for data preprocessing, imputation, encoding, scaling, and classification to ensure accurate predictions. ⚙️🔢
+
 - The predicted sales value is displayed as the output, allowing grocery store owners and managers to make informed decisions about their sales strategy. 📈📉
 
 ### Technology Stack
 - The app is built using the Streamlit library, which makes it easy to create interactive web applications with Python. 🐍🌐
+
 - It leverages machine learning algorithms and techniques to perform accurate sales predictions. 🤖🔬
+
 - The frontend is designed with user-friendly interfaces to ensure a seamless user experience. 👩‍💻👨‍💻
 
 ## Setup
@@ -97,8 +102,6 @@ streamlit run lp4.py
 ```
 
 ## Deployed App on Huggingface: 
-
-
 
 Alternatively, you can visit:
 

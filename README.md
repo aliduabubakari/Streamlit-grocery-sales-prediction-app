@@ -103,10 +103,11 @@ streamlit run lp4.py
 
 ## Deployed App on Huggingface: 
 
-Alternatively, you can visit:
+Alternatively, you can visit: click here ⬇️
 
 [![Streamlit app](images/Huggingface.jpg)](https://huggingface.co/spaces/Abubakari/Sales_Prediction#sales-prediction-app)
 
+By clicking on the image, you will be redirected to the Streamlit Grocery Sales Prediction App.
 
 ### App Execution on Huggingface
 Here's a step-by-step process on how to use the Streamlit Grocery Sales Prediction App:

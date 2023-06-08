@@ -42,6 +42,7 @@ The **Streamlit Grocery Sales Prediction App** is a web application that allows 
 - The predicted sales value is displayed as the output, allowing grocery store owners and managers to make informed decisions about their sales strategy. 📈📉
 
 ### Technology Stack
+
 - The app is built using the Streamlit library, which makes it easy to create interactive web applications with Python. 🐍🌐
 
 - It leverages machine learning algorithms and techniques to perform accurate sales predictions. 🤖🔬
